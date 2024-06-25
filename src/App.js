@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h3>React.js Project</h3>
+          <h3>Project on GitHub</h3>
         </a>
       </header>
     </div>
