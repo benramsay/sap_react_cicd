@@ -12,7 +12,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/benramsay/sap_react_cicd/tree/main"
           target="_blank"
           rel="noopener noreferrer"
         >
