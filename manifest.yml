@@ -1,6 +1,6 @@
 ---
 applications:
-- name: your-app-name
+  - name: react-app-4test
 path: build/
 instances: 1
 buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
